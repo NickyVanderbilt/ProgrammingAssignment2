@@ -1,7 +1,7 @@
-## Matrix inversion is usually a time-consuming calculation,
-## and there maybe some benefit to caching the inverse of a matrix
-## rather than calculating it repeatedly.
-## The following are two functions that are created to cache the inverse of a matrix.
+ ## Matrix inversion is usually a time-consuming calculation,
+ ## and there maybe some benefit to caching the inverse of a matrix
+ ## rather than calculating it repeatedly.
+ ## The following are two functions that are created to cache the inverse of a matrix.
 
 
 ##  This function creates a special "matrix" object that can cache its inverse
